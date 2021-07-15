@@ -62,7 +62,7 @@ public class ItemPedido implements Serializable {
 		return quantidade;
 	}
 
-	public void setQuantidde(Integer quantidade) {
+	public void setQuantidade(Integer quantidade) {
 		this.quantidade = quantidade;
 	}
 
